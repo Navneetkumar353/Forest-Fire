@@ -105,7 +105,3 @@ ridge = pickle.load(open('models/ridge.pkl', 'rb'))
 * Implement **model comparison dashboard** in Flask UI.
 * Deploy on **AWS Elastic Beanstalk**.
 
----
-
-If you want, I can now **add a Heroku deployment guide** to this README so your app can be hosted live from GitHub.
-That way, anyone visiting your repo can run it instantly online without setting it up locally. Do you want me to include that?
